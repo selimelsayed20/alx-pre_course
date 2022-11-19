@@ -1,4 +1,10 @@
-echo
-!/bin/bash
-ALX
-echo alx
+#!/bin/bash
+ALX school
+ALX schoolroot@6aec0c626425:/alx-pre_course/0x01-git/bash#ls
+The school is open
+ALX schoolroot@6aec0c626425:/alx-pre_course/0x01-git/bash# ls
+root@6aec0c626425:/alx-pre_course/0x01-git/bash# cat > school
+
+
+
+
